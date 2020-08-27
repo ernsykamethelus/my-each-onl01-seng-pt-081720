@@ -10,7 +10,7 @@ def my_each(collection)
  
 end
 
-my_each(collection) {|x| puts x}
+
 
 
 #collection = [1, 2, 3, 4]
